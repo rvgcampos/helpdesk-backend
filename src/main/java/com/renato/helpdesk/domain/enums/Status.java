@@ -1,4 +1,4 @@
-package com.renato.helpdesk.domains.enums;
+package com.renato.helpdesk.domain.enums;
 
 public enum Status {
 	ABERTO(0, "ABERTO"), ANDAMENTO(1, "ANDAMENTO"), ENCERRADO(2, "ENCERRADO");
